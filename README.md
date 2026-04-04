@@ -32,7 +32,7 @@ Machine learning system that detects abnormal patterns in sensor streams.
 
 Python • Isolation Forest • Flask • Prometheus  
 
-🔗 https://github.com/Vbhhacl/advanced-monitoring-system
+🔗 https://github.com/Vbhhacl/advanced-anomaly-detection-system
 
 ---
 
@@ -54,7 +54,7 @@ Modular ETL pipeline designed for scalable data workflows.
 
 Python • SQL • Airflow  
 
-🔗 https://github.com/Vbhhacl/airflow-docker
+🔗 https://github.com/Vbhhacl/-Enterprise-Data-Cleaning-ETL-Orchestration-Framework-using-Python
 
 ---
 
