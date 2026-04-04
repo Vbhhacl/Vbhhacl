@@ -63,11 +63,14 @@ Dockerized Airflow pipeline for automated data cleaning workflows.
 </p>
 
  ---
- ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://stats.dooboo.io/api/github-stats-advanced?login=Vbhhacl" />
-  <img height="170" src="https://stats.dooboo.io/api/github-trophies?login=Vbhhacl" />
+
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vbhhacl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vbhhacl&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
