@@ -1,60 +1,56 @@
-<!-- HEADER BANNER -->
+<!-- HEADER -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=200&section=header&text=Vaibhavi%20Halloli&fontSize=40&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Systems%20Builder&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=200&section=header&text=Vaibhavi%20Halloli&fontSize=40&fontAlignY=35&desc=AI%20Engineer%20%7C%20Intelligent%20Systems%20Builder&descAlignY=55&descSize=18"/>
 </p>
 
-<!-- TYPING INTRO -->
+<!-- TYPING -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=6C63FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Student;Machine+Learning+Engineer;Computer+Vision+Builder;Data+Pipeline+Architect"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=6C63FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Student;AI+Systems+Builder;Data+Engineering+Enthusiast;Python+Developer"/>
 </p>
 
 ---
 
-# 👋 Hello World
+# 👋 About Me
 
-I’m **Vaibhavi**, an Artificial Intelligence & Data Science student who enjoys building **real AI systems** — not just notebooks.
+AI & Data Science student passionate about building **real-world intelligent systems**.
 
-My interests lie in:
+I enjoy developing:
 
-🤖 Machine Learning Systems  
-👁 Computer Vision Applications  
-⚙️ Scalable Data Pipelines  
-📊 Intelligent Automation  
+- 🤖 AI applications  
+- ⚙️ data platforms  
+- 📊 analytics dashboards  
+- 🔍 anomaly detection systems  
+- 🧠 intelligent automation tools  
 
 ---
 
 # 🚀 Featured Projects
 
-### 🔍 Real-Time Anomaly Detection
-Machine learning system that detects abnormal patterns in sensor streams.
+### 🔍 Smart Intrusion Detection System
+AI-driven security system detecting malicious patterns in real time.
 
-**Stack**
-
-Python • Isolation Forest • Flask • Prometheus  
-
-🔗 https://github.com/Vbhhacl/advanced-anomaly-detection-system
+**Tech:** Python, Machine Learning
 
 ---
 
-### 🪪 AI Document Verification System
-Computer vision pipeline for automated **Aadhaar & PAN KYC verification**.
+### 📡 Real-Time Anomaly Detection
+ML system identifying anomalies in sensor streams.
 
-**Stack**
-
-Python • OpenCV • EasyOCR  
-
-🔗 https://github.com/Vbhhacl/document-verification-system
+**Tech:** Python, Flask, Scikit-Learn
 
 ---
 
-### ⚙️ Enterprise ETL Orchestration
-Modular ETL pipeline designed for scalable data workflows.
+### 🪪 AI Document Verification
+Automated Aadhaar & PAN verification pipeline.
 
-**Stack**
+**Tech:** Python, OpenCV, EasyOCR
 
-Python • SQL • Airflow  
+---
 
-🔗 https://github.com/Vbhhacl/-Enterprise-Data-Cleaning-ETL-Orchestration-Framework-using-Python
+### ⚙️ Enterprise ETL Framework
+Dockerized Airflow pipeline for automated data cleaning workflows.
+
+**Tech:** Python, Airflow, PostgreSQL, Docker
 
 ---
 
@@ -68,13 +64,13 @@ Python • SQL • Airflow
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vbhhacl&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vbhhacl&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vbhhacl&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vbhhacl&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 </p>
 
@@ -83,12 +79,12 @@ Python • SQL • Airflow
 # 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vbhhacl&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Vbhhacl&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vbhhacl&theme=tokyo-night"/>
@@ -96,10 +92,10 @@ Python • SQL • Airflow
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vbhhacl&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Vbhhacl&theme=tokyonight&row=1&column=6&margin-w=10"/>
 </p>
 
 ---
@@ -127,4 +123,7 @@ Python • SQL • Airflow
 </p>
 
 <!-- FOOTER -->
+
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=120&section=footer"/>
+</p>
