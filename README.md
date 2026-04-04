@@ -68,13 +68,13 @@ Python • SQL • Airflow
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Vbhhacl&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vbhhacl&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vbhhacl&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vbhhacl&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -96,10 +96,10 @@ Python • SQL • Airflow
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vbhhacl&theme=tokyonight&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Vbhhacl&theme=tokyonight&row=1&column=6"/>
 </p>
 
 ---
