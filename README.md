@@ -72,14 +72,6 @@ Dockerized Airflow pipeline for automated data cleaning workflows.
 
 ---
 
-## 💻 Most Used Languages
-
-<p align="center">
-  <img height="170" src="https://stats.dooboo.io/api/github-languages?login=Vbhhacl" />
-</p>
-
----
-
 # 🔥 Contribution Streak
 
 <p align="center">
