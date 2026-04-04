@@ -66,13 +66,7 @@ Dockerized Airflow pipeline for automated data cleaning workflows.
 
 # 📊 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vbhhacl&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vbhhacl&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-
-</p>
+[![Vaibhavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vbhhacl&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -94,10 +88,9 @@ Dockerized Airflow pipeline for automated data cleaning workflows.
 
 # 🏆 Achievements
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vbhhacl&theme=tokyonight&row=1&column=6&margin-w=10"/>
-</p>
-
+[![Achievement: Pull Shark](https://img.shields.io/badge/Achievement-Pull_Shark-blue)](https://github.com/Vbhhacl)
+</n>
+[![Achievement: Quickdraw](https://img.shields.io/badge/Achievement-Quickdraw-purple)](https://github.com/Vbhhacl)
 ---
 
 # 🌍 Connect With Me
