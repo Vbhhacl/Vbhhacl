@@ -62,11 +62,20 @@ Dockerized Airflow pipeline for automated data cleaning workflows.
 
 </p>
 
+ ---
+ 
+# Most Used Language 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vbhhacl&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+</p>
+
 ---
 
 # 📊 GitHub Stats
 
-[![Vaibhavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vbhhacl&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vbhhacl&show_icons=true&theme=radical&hide_border=true" alt="Vaibhavi's GitHub Stats" />
+</p>
 
 ---
 
