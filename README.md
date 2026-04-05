@@ -1,23 +1,21 @@
-# Project Title
+# Vbhhacl's Profile
 
-A brief description of the project.
+Welcome to my GitHub profile! Here you will find my projects, achievements, and more.
+
+## Projects
+
+- Project 1: A brief description of project 1.
+- Project 2: A brief description of project 2.
 
 ## Achievements
-- Achievement 1
-- Achievement 2
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vbhhacl&show_icons=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vbhhacl&layout=compact)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Vbhhacl)
+- Achievement 1: A description of achievement 1.
 
-## Installation
+## Stats
 
-Instructions to install the project.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vbhhacl&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vbhhacl)
 
-## Usage
+## Contact
 
-Instructions for usage.
-
-## License
-
-This project is licensed under the MIT License.
+Feel free to reach out if you want to collaborate on projects or just want to chat!
