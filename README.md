@@ -70,12 +70,9 @@ Tech:
 
 ---
 
+# Contribution Streak
 
-# 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Vbhhacl&theme=tokyonight&hide_border=true"/>
-</p>
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vbhhacl&theme=radical)
 
 ---
 
