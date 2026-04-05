@@ -1,39 +1,116 @@
-# Header
+<!-- HEADER -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=200&section=header&text=Vaibhavi%20Halloli&fontSize=40&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Systems%20Builder&descAlignY=55&descSize=18"/>
+</p>
 
-## Typing Animation
-[Insert typing animation here]
+<!-- TYPING -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=6C63FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Student;Data+Analytics+Enthusiast;Machine+Learning+Explorer;Building+Real+World+AI+Systems"/>
+</p>
 
-## About Me
-I am a software enthusiast with a passion for technology and innovation. I love solving complex problems and building efficient systems.
+---
 
-## Featured Projects
-- Smart Intrusion Detection System
-- Real-Time Anomaly Detection
-- AI Document Verification
-- Enterprise ETL Framework
+# 👋 About Me
 
-## Tech Stack
-- Python
-- Java
-- JavaScript
-- SQL
-- Cloud Technologies
+I’m **Vaibhavi Halloli**, an Artificial Intelligence engineering student passionate about building **data-driven systems, intelligent applications, and analytics platforms**.
 
-## GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Vbhhacl&show_icons=true&theme=radical)
+I enjoy solving real-world problems using:
 
-## Contribution Streak
-![My Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vbhhacl&theme=radical)
+- 📊 Data Analytics & Visualization  
+- 🤖 Machine Learning Systems  
+- ⚙️ Data Engineering & ETL Pipelines  
+- 🔍 Anomaly Detection & Monitoring  
+- 📡 AI-powered automation tools  
 
-## Contribution Graph
-![My Contribution Graph](https://github.com/Vbhhacl)
+My projects range from **large-scale data analysis** to **AI-driven verification systems and monitoring platforms**.
 
-## Achievements
-- Completed several online courses in advanced programming and data science.
-- Winner of the university hackathon.
+---
 
-## Connect
-Feel free to connect with me on [LinkedIn](#) or [Twitter](#).
+# 🚀 Featured Projects
 
-## Footer
-Thank you for visiting my profile!
+### 📊 Airline Ticket Price Analysis
+Analyzed **300,000+ flight records** to uncover pricing patterns across major Indian cities.
+
+Tech:
+`Python` `Pandas` `Data Analysis` `Power BI`
+
+---
+
+### 🔍 Smart Intrusion Detection System
+Machine learning security system detecting malicious patterns in real time.
+
+Tech:
+`Python` `Machine Learning` `Security Analytics`
+
+---
+
+### 🪪 AI Document Verification System
+Automated verification pipeline for Aadhaar and PAN cards.
+
+Tech:
+`Python` `OpenCV` `EasyOCR`
+
+---
+
+### ⚙️ Enterprise Data Cleaning & ETL Framework
+Dockerized **Apache Airflow orchestration platform** for automated enterprise data pipelines.
+
+Tech:
+`Python` `Airflow` `Docker` `PostgreSQL`
+
+---
+
+# 🧠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,flask,docker,git,github,opencv,linux"/>
+
+</p>
+
+---
+
+
+# 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Vbhhacl&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vbhhacl&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/vaibhavi-halloli-ai">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:vaibhavihalloli@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ If you like my projects, consider starring them!
+
+</p>
+
+<!-- FOOTER -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=120&section=footer"/>
+</p>
