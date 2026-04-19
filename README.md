@@ -72,7 +72,7 @@ Tech:
 
 # Contribution Streak
 
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vbhhacl&theme=radical&cache=5)
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vbhhacl&theme=radical&cache=100)
 
 ---
 
