@@ -72,17 +72,15 @@ Tech:
 
 # Contribution Streak
 
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vbhhacl&theme=radical&cache=10)
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vbhhacl&theme=radical&cache_buster=1)
 
 ---
 
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vbhhacl&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vbhhacl&theme=tokyo-night&bg_color=00000000"/>
 </p>
-
----
 
 # 🌍 Connect With Me
 
