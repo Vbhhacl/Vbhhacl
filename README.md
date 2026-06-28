@@ -1,111 +1,207 @@
-<!-- HEADER -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=200&section=header&text=Vaibhavi%20Halloli&fontSize=40&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Systems%20Builder&descAlignY=55&descSize=18"/>
-</p>
+<div align="center">
 
-<!-- TYPING -->
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=6C63FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Student;Data+Analytics+Enthusiast;Machine+Learning+Explorer;Building+Real+World+AI+Systems"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C63FF,50:4F46E5,100:06B6D4&text=Vaibhavi%20Halloli&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=58"/>
 
----
+<br>
 
-# 👋 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1200&color=06B6D4&center=true&vCenter=true&width=900&lines=Building+Production-Ready+AI+Systems;Machine+Learning+Engineer;Generative+AI+Developer;LLMs+%7C+RAG+%7C+AI+Agents;Python+%7C+Cloud+%7C+Data+Engineering"/>
 
-I’m **Vaibhavi Halloli**, an Artificial Intelligence engineering student passionate about building **data-driven systems, intelligent applications, and analytics platforms**.
-
-I enjoy solving real-world problems using:
-
-- 📊 Data Analytics & Visualization  
-- 🤖 Machine Learning Systems  
-- ⚙️ Data Engineering & ETL Pipelines  
-- 🔍 Anomaly Detection & Monitoring  
-- 📡 AI-powered automation tools  
-
-My projects range from **large-scale data analysis** to **AI-driven verification systems and monitoring platforms**.
+</div>
 
 ---
 
-# 🚀 Featured Projects
+# 👋 Hello!
 
-### 📊 Airline Ticket Price Analysis
-Analyzed **300,000+ flight records** to uncover pricing patterns across major Indian cities.
+I'm **Vaibhavi Halloli**, an aspiring **AI Engineer** passionate about building intelligent systems that combine **Machine Learning, Generative AI, Data Engineering, and Cloud Computing**.
 
-Tech:
-`Python` `Pandas` `Data Analysis` `Power BI`
+Instead of just training models, I enjoy building complete AI products—from data ingestion pipelines and APIs to deployment-ready intelligent applications.
 
 ---
 
-### 🔍 Smart Intrusion Detection System
-Machine learning security system detecting malicious patterns in real time.
+# 🚀 Current Focus
 
-Tech:
-`Python` `Machine Learning` `Security Analytics`
+🧠 Generative AI
 
----
+🤖 AI Agents
 
-### 🪪 AI Document Verification System
-Automated verification pipeline for Aadhaar and PAN cards.
+📚 Retrieval-Augmented Generation (RAG)
 
-Tech:
-`Python` `OpenCV` `EasyOCR`
+⚙️ Machine Learning Systems
 
----
+📈 Data Engineering
 
-### ⚙️ Enterprise Data Cleaning & ETL Framework
-Dockerized **Apache Airflow orchestration platform** for automated enterprise data pipelines.
-
-Tech:
-`Python` `Airflow` `Docker` `PostgreSQL`
+☁️ Cloud AI
 
 ---
 
-# 🧠 Tech Stack
+# 💻 Tech Stack
 
-<p align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,flask,docker,git,github,opencv,linux"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,sql"/>
 
 </p>
 
----
+### AI / ML
 
-# Contribution Streak
+<p>
 
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vbhhacl&theme=radical&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=true&date_format=j%20M%20y&cache_buster=3)
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
----
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
 
-# 📈 Contribution Graph
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vbhhacl&theme=tokyo-night&bg_color=00000000"/>
 </p>
 
-# 🌍 Connect With Me
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=flask,fastapi"/>
+
+</p>
+
+### Data Engineering
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,postgres"/>
+
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow"/>
+
+</p>
+
+### Cloud
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=gcp,aws,git,github"/>
+
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+### 🚀 Enterprise ETL Framework
+
+Dockerized Apache Airflow platform for scalable enterprise ETL pipelines.
+
+---
+
+### 🪪 AI Document Verification
+
+OCR + Face Detection + Aadhaar/PAN Validation system.
+
+---
+
+### 📊 Advanced Anomaly Detection
+
+Real-time ML anomaly detection dashboard with Flask APIs.
+
+---
+
+### 🌍 NASA Climate Analytics
+
+Interactive climate intelligence dashboard powered by Machine Learning.
+
+---
+
+### 🛰 Smart Intrusion Detection
+
+Machine Learning based cybersecurity monitoring platform.
+
+---
+
+### 🚗 CNN Vehicle Detection
+
+Deep Learning computer vision project for object detection.
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vbhhacl&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vbhhacl&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vbhhacl&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vbhhacl&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contributions
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Vbhhacl/Vbhhacl/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+✅ Build Production AI Systems
+
+✅ Master LLM Engineering
+
+✅ Build Multi-Agent AI Applications
+
+✅ Learn MLOps
+
+✅ Contribute to Open Source AI
+
+---
+
+# 🌍 Connect
 
 <p align="center">
 
 <a href="https://linkedin.com/in/vaibhavi-halloli-ai">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
 </a>
 
-<a href="mailto:vaibhavihalloli@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+<a href="https://github.com/Vbhhacl">
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
 </a>
 
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐ If you like my projects, consider starring them!
+### ⭐ Building AI that solves real-world problems.
 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:6C63FF,50:4F46E5,100:06B6D4"/>
 
-<!-- FOOTER -->
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=120&section=footer"/>
-</p>
+</div>
